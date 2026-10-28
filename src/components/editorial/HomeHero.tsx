@@ -38,7 +38,7 @@ export const HomeHero: React.FC = () => {
         className="absolute inset-0 w-full h-full object-cover object-center"
       >
         <source
-          src="https://res.cloudinary.com/di9eeahdy/video/upload/v1793202211/1028_tkfdzg.webm"
+          src="https://res.cloudinary.com/di9eeahdy/video/upload/v1793194535/Generating_luxury_jewellery_film_58a56477_1080p_1_shiqnz.webm"
           type="video/webm"
         />
       </video>
@@ -80,3 +80,4 @@ export const HomeHero: React.FC = () => {
     </section>
   );
 };
+

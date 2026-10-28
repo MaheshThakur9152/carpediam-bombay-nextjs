@@ -25,3 +25,8 @@ test-results/
 .idea
 .DS_Store
 
+ 
+# Agent reports
+*.md
+!README.md
+
