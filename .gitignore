@@ -15,8 +15,13 @@ docs/
 *.cjs
 *.mjs
 
+# Next.js build output
+.next/
+test-results/
+
 # Editor
 .vscode/*
 !.vscode/extensions.json
 .idea
 .DS_Store
+
